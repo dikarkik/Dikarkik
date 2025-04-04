@@ -1,16 +1,32 @@
-## Hi there 👋
+## Practice Repositories
 
-<!--
-**dikarkik/Dikarkik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1. Console applications
 
-Here are some ideas to get you started:
+| Stack        | Type                | Description                                                  | Link |
+|:-------------|:--------------------|:--------------------------------------------------------------|:-----|
+|    |         |        |  |
+|     |      |      |  |
+|     |         |             |  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 2. Webpage
+| Stack        | Type                | Description                                                  | Link |
+|:-------------|:--------------------|:--------------------------------------------------------------|:-----|
+|    |         |        |  |
+|     |      |      |  |
+|     |         |             |  |
+
+
+### 3. Web API
+| Stack        | Type                | Description                                                  | Link |
+|:-------------|:--------------------|:--------------------------------------------------------------|:-----|
+|    |         |        |  |
+|     |      |      |  |
+|     |         |             |  |
+
+### 3. Games
+| Stack        | Type                | Description                                                  | Link |
+|:-------------|:--------------------|:--------------------------------------------------------------|:-----|
+|    |         |        |  |
+|     |      |      |  |
+|     |         |             |  |
